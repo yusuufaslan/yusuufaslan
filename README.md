@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yusuufaslan&show_icons=true">
 
-# Hi there, I am Yusuf Aslan! 
+# Hi there, I'm Yusuf Aslan! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuufaslan" alt="yusuufaslan" /> </p>
 
 [![](https://img.shields.io/twitter/followers/yusuufaslan?style=social)](https://www.instagram.com/yusuufaslan/)
