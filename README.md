@@ -11,7 +11,6 @@ For more detailed information about me, you can check my LinkedIn account. &#859
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yusuufaslan)
 
 # My Contribution Graph
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://github.com/yusuufaslan/yusuufaslan/blob/output/github-contribution-grid-snake.gif)
 
 <!--
