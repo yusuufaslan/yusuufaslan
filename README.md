@@ -1,9 +1,16 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yusuufaslan&show_icons=true">
+
+# Hey, I'm Yusuf ASLAN! 
+I'm a 3rd year computer engineering student at Istanbul Technical University.
+For more detailed information about me, you can check my LinkedIn account. &#8595;
+
+
+[![](https://img.shields.io/badge/Add%20Contact-LinkedIn-blue)](https://www.linkedin.com/in/yusuf-aslan-47052b1b6/)
+[![](https://img.shields.io/github/followers/yusuufaslan?style=social)](https://www.github.com/yusuufaslan)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=yusuufaslan)
 
 <!--
-**yusuufaslan/yusuufaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
