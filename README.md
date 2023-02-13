@@ -4,6 +4,8 @@
 I'm a 3rd year computer engineering student at Istanbul Technical University.
 For more detailed information about me, you can check my LinkedIn account. &#8595;
 
+# NOTE: There are many other projects I have implemented by myself or as a group project but they are either private repositories or not published yet.  
+
 
 [![](https://img.shields.io/badge/Add%20Contact-LinkedIn-blue)](https://www.linkedin.com/in/yusuf-aslan-47052b1b6/)
 [![](https://img.shields.io/github/followers/yusuufaslan?style=social)](https://www.github.com/yusuufaslan)
