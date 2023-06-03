@@ -11,7 +11,7 @@ For more detailed information about me, you can check my LinkedIn account. &#859
 [![](https://img.shields.io/github/followers/yusuufaslan?style=social)](https://www.github.com/yusuufaslan)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yusuufaslan)
-![https://img.shields.io/badge/-Personal%20Website%20(Not%20Ready)-brightgreen](https://yusuufaslan.github.io/personal-website/)
+[![](https://img.shields.io/badge/-Personal%20Website%20(Not%20Ready)-brightgreen)](https://yusuufaslan.github.io/personal-website/)
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
