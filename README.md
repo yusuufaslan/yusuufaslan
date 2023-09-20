@@ -29,9 +29,9 @@ For more detailed information about me, you can check my LinkedIn account. &#859
   </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p> -->
 
-# My Contribution Graph
+<!-- # My Contribution Graph
 ![snake gif](https://github.com/yusuufaslan/yusuufaslan/blob/output/github-contribution-grid-snake.gif)
-
+-->
 <!--
 
 - 🔭 I’m currently working on ...
