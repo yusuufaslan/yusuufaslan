@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yusuufaslan&show_icons=true">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=yusuufaslan&show_icons=true"> -->
 
 # Hey, I'm Yusuf ASLAN! 
 I'm a 3rd year computer engineering student at Istanbul Technical University.
