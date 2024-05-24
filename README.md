@@ -1,7 +1,7 @@
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=yusuufaslan&show_icons=true"> -->
 
 # Hey, I'm Yusuf ASLAN! 
-I'm a 3rd year computer engineering student at Istanbul Technical University.
+I'm a senior computer engineering student at Istanbul Technical University.
 For more detailed information about me, you can check my LinkedIn account. &#8595;
 
 # NOTE: There are many other projects I have implemented by myself or as a group project but they are either private repositories or not published yet.  
